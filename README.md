@@ -11,7 +11,7 @@ I'm a Student at Trybe @ [Trybe](https://www.betrybe.com/).
 <div align="left">
  
 ``` js
-const stebs = {
+const rnogara = {
     personal: {
         fullName: 'Roberta Nogara',
         birthDate: '1993-11-16',
