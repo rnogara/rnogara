@@ -39,8 +39,4 @@ const rnogara = {
 [![Linkedin: Roberta Nogara](https://img.shields.io/badge/-Roberta_Nogara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberta-nogara-535520230/)](https://www.linkedin.com/in/roberta-nogara-535520230/)
 </div>
 
-<code><img align="left” width="96" height="96" src="https://img.icons8.com/neon/96/gmail.png" alt="gmail"/ href=”mailto:r.nogara.dev@gmail.com”>
-<code><img align="right” width="96" height="96" src="https://img.icons8.com/neon/96/linkedin.png" alt="linkedin"/
-href=”https://www.linkedin.com/in/roberta-nogara/”>
-
 
