@@ -36,7 +36,7 @@ const rnogara = {
 </details>
 
 [![Gmail](https://img.icons8.com/neon/96/gmail.png)](mailto:r.nogara.dev@gmail.com)
-[![Linkedin: Roberta Nogara](ttps://img.icons8.com/neon/96/linkedin.png)](https://www.linkedin.com/in/robertanogara/)
+[![Linkedin: Roberta Nogara](https://img.icons8.com/neon/96/linkedin.png)](https://www.linkedin.com/in/robertanogara/)
 
 </div>
 
