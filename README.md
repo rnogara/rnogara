@@ -7,7 +7,7 @@
 **Personal**
 - 🖥️ I am a **fullstack developer**
 - 📖 Currently a student at [Trybe](https://www.betrybe.com/),
-- ❤️ Things I like **reading, games, animes, star wars, and lord of the rings.** 
+- ❤️ Things I like: **reading, games, animes, star wars, and lord of the rings.** 
 - 🌾 I used to work as a **drone pilot** in agribusiness,
 - 🎓 I have a bachelor's degree in **forest engineering**,
 - 💬 If you have any questions, **just ask me**.
