@@ -38,3 +38,7 @@ const rnogara = {
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Ar.nogara.dev7%40gmail.com)](mailto:r.nogara.dev@gmail.com)
 [![Linkedin: Roberta Nogara](https://img.shields.io/badge/-Roberta_Nogara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberta-nogara-535520230/)](https://www.linkedin.com/in/roberta-nogara-535520230/)
 </div>
+
+<img align="left” width="96" height="96" src="https://img.icons8.com/neon/96/gmail.png" alt="gmail"/>(mailto:r.nogara.dev@gmail.com)
+<img align="right” width="96" height="96" src="https://img.icons8.com/neon/96/linkedin.png" alt="linkedin"/>(https://www.linkedin.com/in/roberta-nogara/)
+
