@@ -35,7 +35,7 @@
 **Planning to Learning**
 
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/></code>
-<code><img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
+<code><img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></code>
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/></code>
 
 <br />
