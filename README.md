@@ -39,7 +39,7 @@
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/></code>
 
 <br />
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=rnogara&count_private=true&show_icons=true" alt="Roberta Nogara" />
+<img src="https://github-readme-stats.vercel.app/api?username=rnogara&count_private=true&show_icons=true" alt="Roberta Nogara" />
 <br />
 
 📊 **My recent programming status:**
