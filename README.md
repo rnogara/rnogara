@@ -31,12 +31,7 @@
 <code><img width="48" height="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize"/></code>
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/></code>
 <code><img width="48" height="48" src="https://img.icons8.com/color/48/java-web-token.png" alt="java-web-token"/></code>
-
-**Planning to Learning**
-
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/></code>
-<code><img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/></code>
-<code><img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/></code>
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=rnogara&count_private=true&show_icons=true" alt="Roberta Nogara" />
