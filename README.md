@@ -33,7 +33,7 @@
 <code><img width="48" height="48" src="https://img.icons8.com/color/48/java-web-token.png" alt="java-web-token"/></code>
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/></code>
 <code><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/></code>
-<code><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="angular"/></code>
+<code><img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angular"/></code>
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=rnogara&count_private=true&show_icons=true" alt="Roberta Nogara" />
