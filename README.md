@@ -43,20 +43,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2023 - To: 19 February 2024
+From: 23 January 2023 - To: 20 February 2024
 
-Total Time: 401 hrs 40 mins
+Total Time: 401 hrs 55 mins
 
-JavaScript        169 hrs 12 mins ██████████▓░░░░░░░░░░░░░░   42.13 %
-Python            82 hrs          █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-TypeScript        81 hrs 17 mins  █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+JavaScript        169 hrs 12 mins ██████████▓░░░░░░░░░░░░░░   42.10 %
+Python            82 hrs 5 mins   █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+TypeScript        81 hrs 17 mins  █████░░░░░░░░░░░░░░░░░░░░   20.23 %
 CSS               21 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 HTML              9 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 Java              8 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-JSON              7 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JSON              7 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 SQL               7 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 Other             2 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Text              2 hrs 29 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Text              2 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
