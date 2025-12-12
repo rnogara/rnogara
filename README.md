@@ -43,20 +43,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2023 - To: 09 December 2025
+From: 23 January 2023 - To: 10 December 2025
 
-Total Time: 1,313 hrs
+Total Time: 1,320 hrs 55 mins
 
-TypeScript                 533 hrs 44 mins ██████████░░░░░░░░░░░░░░░   40.65 %
-Python                     364 hrs 43 mins ███████░░░░░░░░░░░░░░░░░░   27.78 %
-JavaScript                 174 hrs 50 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-JSON                       77 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-CSS                        26 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Astro                      24 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-YAML                       20 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Bash                       13 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Text                       12 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Docker                     11 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+TypeScript                 533 hrs 44 mins ██████████░░░░░░░░░░░░░░░   40.41 %
+Python                     372 hrs 37 mins ███████░░░░░░░░░░░░░░░░░░   28.21 %
+JavaScript                 174 hrs 50 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+JSON                       77 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+CSS                        26 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Astro                      24 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+YAML                       20 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Bash                       13 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Text                       12 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Docker                     11 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
