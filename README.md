@@ -5,7 +5,7 @@
 <img align="right" src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200"  />
 
 **Personal**
-- 🖥️ I am a **fullstack developer**
+- 🖥️ I work at [Brasil TecPar](https://www.brasiltecpar.com.br/) as a **RPA (Robotic Process Automation) Developer**
 - 📖 I graduated from [Trybe](https://www.betrybe.com/),
 - ❤️ Things I like: **reading, games, animes, star wars, and the lord of the rings.** 
 - 🌾 I used to work as a **drone pilot** in agribusiness,
